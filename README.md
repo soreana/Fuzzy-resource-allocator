@@ -24,5 +24,6 @@ sina@ccc ~ []$ jupyter-lab # run jupyter, it gives you a link to access the web 
 * add docker
 * add more algorithms
 * add Documentations
+* make it run on github
 
 https://matplotlib.org/stable/gallery/misc/table_demo.html#sphx-glr-gallery-misc-table-demo-py
