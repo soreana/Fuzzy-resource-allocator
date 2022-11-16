@@ -7,9 +7,9 @@ Install the following package
 * numpy
 * pandas
 
-My python version was 3.10.6, but the code must work with python version 3.6+
+My python version was 3.10.6, but the code should work with python version 3.6+, I didn't use any magical thing in background.
 
-Run
+## Run
 
 ```bash
 sina@ccc ~ []$ pip install matplotlib jupyterlab numpy pandas # access libraries
@@ -19,7 +19,7 @@ sina@ccc ~ []$ jupyter-lab # run jupyter, it gives you a link to access the web 
 ```
 
 
-# TODO
+## TODO
 * add references
 * add docker
 * add more algorithms
